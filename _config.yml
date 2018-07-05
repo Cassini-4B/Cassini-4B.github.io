@@ -1,0 +1,38 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               J. Lee
+tagline:             A Moderately Okay Data Science Blog
+url:                 
+paginate:            2
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Janice Lee
+  url:               www.bbc.com
+  email:             janice.s.lee.000@gmail.com
+
+# Custom vars
+version:             2.0.0
+github:              https://github.com/Cassini-4B
+  repo:              https://github.com/Cassini-4B
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+# Page List
+pages_list:       
+  About: '/about'
+  Archive: '/archive'
+  Feed: '/index.html'
