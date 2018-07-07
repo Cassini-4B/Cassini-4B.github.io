@@ -1,6 +1,8 @@
 ---
+ 
+<!--font: centurygothic -->
 layout: page
-# h1 
+#h2
 title: About
 ---
 
@@ -11,6 +13,7 @@ title: About
 </p>
 
 
+#h2
 ## Setup
 
 Some fun facts about the setup of this project include:
