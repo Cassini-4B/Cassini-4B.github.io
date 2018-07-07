@@ -2,7 +2,7 @@
 permalink:           pretty
 
 # Setup
-title:               J. Lee
+title:               <span style = 'background-color: grey'>J. Lee</span>
 tagline:             A Moderately Okay Data Science Blog
 url:                 
 paginate:            2
@@ -18,7 +18,7 @@ sass:
 # About/contact
 author:
   name:              Janice Lee
-  url:               www.bbc.com
+  url:               www.janicelee.com
   email:             janicelee@gmail.com
 
 # Custom vars
