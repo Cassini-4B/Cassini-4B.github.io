@@ -15,6 +15,7 @@ title: About
 
 #h2
 title: Setup
+---
 
 Some fun facts about the setup of this project include:
 
