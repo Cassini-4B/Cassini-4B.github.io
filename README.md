@@ -1,2 +1,2 @@
 # Cassini-4B.github.io
-My blog
+My blog for the Metis Data Science Bootcamp.  
