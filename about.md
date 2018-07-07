@@ -13,8 +13,7 @@ title: About
 </p>
 
 
-#h2
-title: Setup
+## Setup
 ---
 
 Some fun facts about the setup of this project include:
