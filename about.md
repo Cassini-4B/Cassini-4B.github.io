@@ -14,6 +14,7 @@ title: About
 
 
 ## Setup
+--------
 ---
 
 Some fun facts about the setup of this project include:
