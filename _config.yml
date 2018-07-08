@@ -6,7 +6,7 @@ title:               Algorisme
 tagline:             A Moderately Okay Data Science Blog by Janice Lee
 url:                 
 paginate:            2
-baseurl:             ""
+baseurl:             /hyde/
 
 # Assets
 #
