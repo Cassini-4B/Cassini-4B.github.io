@@ -112,30 +112,34 @@ h1, h2, h3, h4, h5, h6 {
   padding-bottom: 2rem;
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
-  background-color: "Tomato";
  
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  background-color: "Tomato";
 }
 .masthead-title a {
   color: #505050;
+  background-color: "Tomato";
 }
 .masthead-title large {
   font-size: 100%;
   font-weight: 900;
   color: #c0c0c0;
   letter-spacing: 0;
+  background-color: "Tomato";
 }
 
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
+    background-color: "Tomato";
   }
   .masthead-title small {
     display: none;
+    background-color: "Tomato";
   }
 }
 
