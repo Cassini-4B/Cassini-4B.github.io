@@ -116,7 +116,7 @@ header {
 
 .masthead {
   padding-top:    1rem;
-  background: #000531 url("../pics/background.jpg") no-repeat center center;
+  background: "Tomato" url("/pics/background.jpg") no-repeat center center;
   background-size: cover;
 
   
