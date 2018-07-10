@@ -116,9 +116,10 @@ header {
 
 .masthead {
   padding-top:    1rem;
-  padding-bottom: 2rem;
-  margin-bottom: 3rem;
-  border-bottom: 1px solid #eee;
+  background: #000531 url("../pics/background.jpg") no-repeat center center;
+  background-size: cover;
+
+  
  
 }
 .masthead-title {
