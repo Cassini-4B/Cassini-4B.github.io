@@ -1,5 +1,6 @@
 # Permalinks
 permalink:           pretty
+relative_permalinks: true
 
 # Setup
 title:               Pandas, Pythons and Pickles 
@@ -7,6 +8,7 @@ tagline:             A Moderately Okay Data Science Blog
 url:                 
 paginate:            2
 baseurl:             "" 
+
 
 # Assets
 #
