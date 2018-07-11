@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
-  background-color: "Tomato";
+ 
 }
 
 
@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6 {
 .masthead {
   padding-top:    6rem;
   padding-bottom: 6rem;
-  background: #FF6347 url("/pics/background2.jpg") no-repeat center center;
+  background: #FBEFF2 url("/pics/background2.jpg") no-repeat center center;
   background-size: cover;
 
   
