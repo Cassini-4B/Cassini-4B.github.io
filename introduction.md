@@ -2,8 +2,8 @@
  
 <!--font: centurygothic -->
 layout: page
-#h3
-title: About
+#h2
+title: Introduction
 ---
 
 ![alt text](/pics/background.jpg)
