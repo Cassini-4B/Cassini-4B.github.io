@@ -42,21 +42,15 @@ body {
 
 html {
   font-family:  "Poiret One",   Georgia, cursive;
-  font-weight: 700
+  font-weight: 400
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family:  "Cinzel Decorative", Helvetica, Arial, cursive;
-  font-weight: 900;
+  font-weight: 500;
   color: #313131;
   letter-spacing: -.025rem;
   background-color: "Tomato";
-}
-
----
----
-header {
-  background-image: url('{{ site.baseurl }}/pics/background.jpg');
 }
 
 
@@ -103,7 +97,6 @@ header {
  margin:0 0 30px 0:
  padding: 5px 0 0 0 ;
  width: 100%;
- background-image: /pics/background.jpg;
  background-color: Tomato; 
 }
 
@@ -115,8 +108,8 @@ header {
  */
 
 .masthead {
-  padding-top:    12rem;
-  padding-bottom: 12rem;
+  padding-top:    6rem;
+  padding-bottom: 6rem;
   background: #FF6347 url("/pics/background2.jpg") no-repeat center center;
   background-size: cover;
 
