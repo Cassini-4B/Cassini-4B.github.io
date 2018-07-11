@@ -2,7 +2,6 @@
  
 <!--font: centurygothic -->
 layout: page
-#h3
 title: About
 ---
 
