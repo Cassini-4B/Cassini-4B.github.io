@@ -4,8 +4,8 @@ permalink:           pretty
 
 # Setup
 title:               DATA + SCIENCE
-tagline:             A Moderately Okay Data Science Blog  
-tagline2: 	     By Janice Lee                  
+tagline:             A Moderately Okay Data Science Blog <br><br> 
+tagline2: 	     <\h4> By Janice Lee                  <h4>
 url:                 
 paginate:            3
 baseurl:             "" 
