@@ -41,13 +41,13 @@ body {
 }
 
 html {
-  font-family:  "Prata",  Georgia, serif;
+  font-family:  'Raleway',  Georgia, sans-serif;
   font-weight: 600
 }
 
 
 h1, h2, h3, h4, h5, h6 {
-  font-family:  "Cormorant Garamond", Helvetica, Arial, serif;
+  font-family:  'Roboto', Helvetica, Arial, sans-serif;
   font-weight: 800;
   color: #313131;
   letter-spacing: -.025rem;
